@@ -13,6 +13,6 @@ This is the checklist of tasks to make
     - [A] Installing
   - [B] Deployment
   - [A] Built With
-  - [] Authors
+  - [B] Authors
   - [] License
 
