@@ -14,5 +14,4 @@ This is the checklist of tasks to make
   - [B] Deployment
   - [A] Built With
   - [B] Authors
-  - [] License
-
+  - [A] License

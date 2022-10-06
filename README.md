@@ -48,4 +48,6 @@ See also the list of
 [contributors](https://www.github.com/cod3spac3Academy)
 who participated in this proyect.
 
+## License
 
+This proyect is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.es) Creative Commons License - see the [LICENSE.md](https://creativecommons.org/publicdomain/zero/1.0/legalcode) file for details.
