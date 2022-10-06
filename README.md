@@ -30,4 +30,8 @@ And repeat:
 
 End with an example of getting some data out of the system or using it for a little demo.
 
+## Deployment
+
+Add aditionas notes to deploy this on a live system.
+
 
