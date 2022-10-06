@@ -4,7 +4,7 @@ This is the checklist of tasks to make
 
 ## Making a good readme
 
-- [ ] Project title
+- [A] Project title
   - [ ] Description
   - [ ] Getting Started
     - [ ] Prerequisites
@@ -13,3 +13,4 @@ This is the checklist of tasks to make
   - [ ] Built With
   - [ ] Authors
   - [ ] License
+
