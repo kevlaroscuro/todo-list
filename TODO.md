@@ -5,7 +5,7 @@ This is the checklist of tasks to make
 ## Making a good readme
 
 - [A] Project title
-  - [ ] Description
+  - [B] Description
   - [ ] Getting Started
     - [ ] Prerequisites
     - [ ] Installing
