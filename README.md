@@ -39,4 +39,13 @@ Add aditionas notes to deploy this on a live system.
 - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
 - [Creative Commons](https://creativecommons.org/licenses/?lang=es_ES)
 
+## Authors
+
+- **Programer A** - Provided README Template - [kevlaroscuro](https://www.github.com/kevlaroscuro/kevlaroscuro.git)
+- **Programer B** - Provided README Template - [kevlarluminoso](https://www.github.com/kevlarluminoso/kevlarluminoso.git)
+
+See also the list of
+[contributors](https://www.github.com/cod3spac3Academy)
+who participated in this proyect.
+
 
