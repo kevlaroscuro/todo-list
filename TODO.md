@@ -6,7 +6,7 @@ This is the checklist of tasks to make
 
 - [A] Project title
   - [B] Description
-  - [ ] Getting Started
+  - [A] Getting Started
     - [ ] Prerequisites
     - [ ] Installing
   - [ ] Deployment
