@@ -1,16 +1,18 @@
 
 
-# ESTUDIOS R.M.(TM)
+# Proyect title
 
-This is a design drawing studio from 2 persons how lives in Spain, and we want to get know for all people who wants buy a draw and learn drawing. You can find info and example in:
-
-Reddit [Samaela666](https://www.reddit.com/user/Samaela666)
+One Paragraph of the proyect description.
+You can find more information by visiting the [Codespace](https://www.github.com/cod3spac3Academy) repository.
 
 ## Getting started
 
-For start you've to be crazy and like draw all things in your head. If is your case, you've got 1 extra point, congratulations! Here a example of the progress of this proyect, step by step:
+These instructions will give you a copy of the project up and runnig on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
-![Initial idea](inicio.jpeg)
-![Progress](progreso.jpeg)
-![Final!](final.jpeg)
+## Prerequisites
+
+Requirements for the software and other tools to build, test and push:
+
+[Example1](https://www.pccomponentes.com/ordenadores)
+[Example2](https://www.linuxmint.com/edition.php?id=299)
 
