@@ -10,7 +10,7 @@ This is the checklist of tasks to make
   - [B] Description
   - [A] Getting Started
     - [B] Prerequisites
-    - [] Installing
+    - [A] Installing
   - [] Deployment
   - [] Built With
   - [] Authors
