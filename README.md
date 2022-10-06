@@ -9,7 +9,7 @@ Reddit [Samaela666](https://www.reddit.com/user/Samaela666)
 
 For start you've to be crazy and like draw all things in your head. If is your case, you've got 1 extra point, congratulations! Here a example of the progress of this proyect, step by step:
 
-![Initial idea](/var/www/Code/todo-list/inicio.jpeg)
-![Progress](/var/www/Code/todo-list/progreso.jpeg)
-![Final!](/var/www/Code/todo-list/final.jpeg)
+![Initial idea](kevlaroscuro/inicio.jpeg)
+![Progress](kevlaroscuro/progreso.jpeg)
+![Final!](kevlaroscuro/final.jpeg)
 
