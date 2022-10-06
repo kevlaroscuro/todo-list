@@ -11,7 +11,7 @@ This is the checklist of tasks to make
   - [A] Getting Started
     - [B] Prerequisites
     - [A] Installing
-  - [] Deployment
+  - [B] Deployment
   - [] Built With
   - [] Authors
   - [] License
