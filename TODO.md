@@ -12,7 +12,7 @@ This is the checklist of tasks to make
     - [B] Prerequisites
     - [A] Installing
   - [B] Deployment
-  - [] Built With
+  - [A] Built With
   - [] Authors
   - [] License
 
