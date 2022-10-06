@@ -1,3 +1,5 @@
+
+
 # TODO List
 
 This is the checklist of tasks to make
@@ -7,10 +9,10 @@ This is the checklist of tasks to make
 - [A] Project title
   - [B] Description
   - [A] Getting Started
-    - [ ] Prerequisites
-    - [ ] Installing
-  - [ ] Deployment
-  - [ ] Built With
-  - [ ] Authors
-  - [ ] License
+    - [B] Prerequisites
+    - [] Installing
+  - [] Deployment
+  - [] Built With
+  - [] Authors
+  - [] License
 
